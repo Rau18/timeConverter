@@ -1,4 +1,4 @@
-# timeConverter
+# Time Converter
 
 
 ## INTRODUCTION 
